@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await Anony.start()
     try:
-        await Anony.stream_call("https://files.catbox.moe/cc63bi.jpg")
+        await Anony.stream_call("https://files.catbox.moe/c7zsf6.jpg")
     except NoActiveGroupCall:
         LOGGER("AnonXMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."

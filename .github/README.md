@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ˹ᴋɪʏᴏᴍɪ ᴍᴜꜱɪᴄ ʙᴏᴛ ˼ ♪ 」──
+    ──「 ˹ʜɪᴍᴀɴꜱʜɪ ᴍᴜꜱɪᴄ ʙᴏᴛ˼ ♪ 」──
 </h2>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/cc63bi.jpg">
+  <img src="https://files.catbox.moe/c7zsf6.jpg">
 </p>
 
 <h3 align="center">
